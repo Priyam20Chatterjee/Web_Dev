@@ -1,0 +1,43 @@
+h1{
+    color : red;
+    text-align: center;
+    text-decoration: #ffffff  underline;
+    font-weight: lighter;
+    font-style: italic;
+    font-family: cursive;
+    font-size: 40px;
+}
+
+p{
+    text-align: left;
+    color: blueviolet;
+    font-size: 30px;
+}
+button{
+    color: coral;
+    background-color: chartreuse;
+    text-align: center;
+}
+body{
+    background-color: black
+}
+#para{
+    font-size:20px;
+    line-height:25px;
+    font-weight: lighter;
+    color: dodgerblue;
+    text-transform: capitalize;
+}
+div{
+    height: 100px;
+    color: rgb(56, 159, 28);
+    background-color: pink;
+    width: 300px;
+    /* border-width: 20px; 
+    border-color: blue;
+    border-style:groove;  */
+    border:20px blue dotted;
+    line-height: 25px;
+    /* border-radius: 100px; */
+    border-radius: 50%;
+}
